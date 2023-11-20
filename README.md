@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!!+welcome+to+goncharovIlya+gitHub+profile!)](https://git.io/typing-svg)
 ### Languages and Tools
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/-JavaSCript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
